@@ -1,6 +1,6 @@
 # BasicMaster Jr. エミュレータ for CH32V203
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 中華マイコン CH32V203 用 BasicMaster Jr. エミュレータです。
 以下の機能を実装しています。
@@ -33,7 +33,8 @@
 -ESC = Break
 
 ---
-bmrom.h には BasicMaster Jr. 実機の ROMが必要です。
+bmrom.h に BasicMaster Jr. 実機の ROMが必要です。
+bmrom_template.h の該当部分にROMデータをコピーの上、リネームしてください。
 
 - fontrom (2KB)
 - basicrom ($B000-$E7FF)
