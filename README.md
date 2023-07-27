@@ -25,12 +25,12 @@
 
 特殊キーの配置は以下のようになっています。
 
--左 Shift = 英記号
--左 Ctrl = 英数
--右 Shift = カナ記号
--右 Ctrl = カナ
--Backspace = Delete
--ESC = Break
+- 左 Shift = 英記号
+- 左 Ctrl = 英数
+- 右 Shift = カナ記号
+- 右 Ctrl = カナ
+- Backspace = Delete
+- ESC = Break
 
 ---
 bmrom.h に BasicMaster Jr. 実機の ROMが必要です。
