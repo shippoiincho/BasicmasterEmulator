@@ -46,6 +46,9 @@ bmrom_template.h の該当部分にROMデータをコピーの上、リネーム
 ほぼ JR-100 エミュレータと同じです。
 接続図もそちらを参考にしてください。<br>
 
+![Mini BasicMaster Jr.](minibmjr.jpg)
+![Mini BasicMaster Jr. inner](minibmjr_inner.jpg)
+
 今回は USB キーボードに対応しています。
 USB-OTG を使いますので、PB6/7 を USB の D-/D+ に、VBUS に 5V を供給してください。<br>
 
